@@ -1,0 +1,36 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Streetwalk" itemID="5bc7b0cb-00000024" lastModified="1539813579">
+  <timeline>
+    <DOMTimeline name="Streetwalk">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix d="1.18998718261719" tx="-0.05" ty="-454.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="374.1" y="400.1"/>
+                  </transformationPoint>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#CCCCCC"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!1 7642[#1F0F.BA #201B.89 14964 7642!14964 7642|14964 8362!14964 8362|1 8362!1 8362|1 7642"/>
+                    <Edge cubics="!14964 7642(;14964,7642 14964,8362 14964,8362q14964 7642 14964 8362);"/>
+                    <Edge cubics="!1 8362(;1,8362 1,7642 1,7642q1 8362 1 7642);"/>
+                    <Edge cubics="!14964 8362(;14964,8362 1,8362 1,8362q14964 8362 1 8362);"/>
+                    <Edge cubics="!1 7642(;5302,8027 10289,8027 14964,7642q1 7642Q7952 8220q14964 7642);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

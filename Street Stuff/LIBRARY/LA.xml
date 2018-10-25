@@ -1,0 +1,35 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="LA" itemID="5bc7ba0b-00000091" lastModified="1539815947">
+  <timeline>
+    <DOMTimeline name="LA">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix ty="-101.8"/>
+                  </matrix>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" joints="miter" miterLimit="10">
+                        <fill>
+                          <SolidColor color="#221F20"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!1003 2055[#242.CC #7C4.16 363 2161.5!363 2161.5[#93.35 #91E.EA 0 2676"/>
+                    <Edge cubics="!363 2162(;219,2277 98,2449 0,2676q363 2162Q147 2335q0 2676);"/>
+                    <Edge cubics="!1003 2055(;720,2010 507,2046 363,2162q1003 2055Q579 1988q363 2162);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

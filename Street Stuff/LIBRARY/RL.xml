@@ -1,0 +1,36 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="RL" itemID="5bc7ba0f-00000095" lastModified="1539815951">
+  <timeline>
+    <DOMTimeline name="RL">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-300.8" ty="-257.2"/>
+                  </matrix>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" joints="miter" miterLimit="10">
+                        <fill>
+                          <SolidColor color="#221F20"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!6029 5144[6017 5254 6016 5278!6016 5278[6014 5357 6040 5416!6040 5416[6071 5511 6164 5646!6164 5646[6216 5721 6322 5873!6322 5873[6404 6004 6420 6107!6420 6107[6440 6238 6365 6360"/>
+                    <Edge cubics="!6029 5144(;6024,5188 6017,5233 6016,5278q6029 5144Q6017 5254q6016 5278);"/>
+                    <Edge cubics="!6016 5278(;6015,5324 6020,5370 6040,5416q6016 5278Q6014 5357q6040 5416);"/>
+                    <Edge cubics="!6040 5416(;6141,5729 6582,6006 6365,6360q6040 5416Q6071 5511q6164 5646Q6216 5721q6322 5873Q6404 6004q6420 6107Q6440 6238q6365 6360);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
