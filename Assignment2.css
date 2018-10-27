@@ -1,4 +1,5 @@
-div p {
+div p
+{
   color: black;
   font-size: 30px;
   padding: 30px;
@@ -8,11 +9,29 @@ div p {
   border:black 3.5px dashed;
 }
 
-h1, h5{
+h1, h5
+{
   font-size: 40px;
   color:blue;
 }
 
-body{
-  background-color:#BAF29E;
+#Paragraph77
+{
+  position: relative;
+  color:purple;
+  top:400px;
+}
+
+#Paragraph
+{
+background-color:purple;
+color:black;
+text-transform: capitalize;
+padding:100px;
+margin: 0 auto;
+width:400px;
+height:600px;
+position: fixed;
+top:500px;
+right:50px;
 }
